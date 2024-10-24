@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kehageho.github.io/sitemap/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/nVo/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/Bma/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/WcV/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/vLb/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/pit/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/cWk/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/HTq/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/MZO/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/jCv/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/NrI/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/DZA/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/TKO/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/kgO/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/yAP/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/Nnp/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/jXL/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/rxV/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/Syx/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/ZBw/sitemap_index.kehageho
+Sitemap: https://kehageho.github.io/Xmy/sitemap_index.kehageho
